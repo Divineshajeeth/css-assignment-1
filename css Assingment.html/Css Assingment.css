@@ -1,0 +1,42 @@
+
+h2 {
+    text-align: center;
+
+}
+
+.cla67{
+    margin: auto;
+    width: 1000px;
+    height: 825px;
+    border: 3px solid black;
+    padding: 10px;
+    background-color: white;
+    border-radius: 8px;
+
+
+
+}
+
+form {
+    background-color: rgb(161, 208, 240);
+    padding: 20px;
+    width: 1400px;
+    height: 850px;
+    margin: auto;
+}
+
+table {
+    border-collapse: collapse;
+
+}
+
+th {
+    background-color: rgb(60, 60, 252);
+}
+.cla234{
+    text-align: center;
+    color: white;
+    background-color: black;
+    width: 100%;
+    
+}
