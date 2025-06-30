@@ -27,6 +27,9 @@ form {
 
 table {
     border-collapse: collapse;
+    padding: auto;
+    width:140px;
+    margin: auto;
 
 }
 
